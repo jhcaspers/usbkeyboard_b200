@@ -6,3 +6,4 @@ All keys are mapped correctly just the FN-Key is mapped as the right Alt as it's
 
 Keys can easily be remapped in the "keyCodes" array. The code should work with any other keyboard that does not need more columns or rows (in total 19 I/O Lines) as that's the limit of the user Arduino Leonardo board.
 
+You can find the pinout and what pin is connected where on the Arduino in the PNG.
